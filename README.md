@@ -25,7 +25,7 @@
 
 ## 开源项目
 
-- **[wangge-articles](https://github.com/wangge-dev/wangge-articles)**：公众号「AI应用实战派PRO」文章归档，包含 59 篇 AI、电商与工作流实战文章。
+- **[wangge-articles](https://github.com/wangge-dev/wangge-articles)**：公众号「AI应用实战派PRO」文章归档，包含 61 篇 AI、电商与工作流实战文章。
 - **[wangge-skills](https://github.com/wangge-ai/wangge-skills)**：旺哥开源 Skill 总索引。
 
 更多成熟 Skill 和案例会在完成开发、许可证与隐私审查后逐步公开。
