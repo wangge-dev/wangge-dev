@@ -6,7 +6,7 @@
 
 把真实业务流程做成可以复用的 Skill、工具和案例。
 
-[公众号文章](https://github.com/wangge-dev/wangge-articles) · [开源 Skills](https://github.com/wangge-ai/wangge-skills) · [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/) · [wangge-ai](https://github.com/wangge-ai)
+[公众号文章](https://github.com/wangge-dev/wangge-articles) · [开源 Skills](https://github.com/wangge-ai/wangge-skills) · [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/) · [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH) · [wangge-ai](https://github.com/wangge-ai)
 
 </div>
 
@@ -32,7 +32,9 @@
 
 ## 找到我
 
-进入 [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)，获取 Skill 分享、实战案例和后续更新。
+进入 [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)，获取实战案例和后续更新。
+
+文章配套 Skill、工作流、教程和课件统一放在 [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH)。
 
 <p align="center">
   <a href="https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/">
