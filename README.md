@@ -35,3 +35,8 @@
 
 进入 [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)，获取 Skill 分享、实战案例和后续更新。
 
+<p align="center">
+  <a href="https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/">
+    <img src="assets/feishu-community-qr.png" width="220" alt="扫码进入旺哥 AI 电商实战群">
+  </a>
+</p>
