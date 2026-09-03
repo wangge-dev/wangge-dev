@@ -6,7 +6,7 @@
 
 把真实业务流程做成可以复用的 Skill、工具和案例。
 
-[开源 Skills](https://github.com/wangge-ai/wangge-skills) · [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/) · [wangge-ai](https://github.com/wangge-ai)
+[公众号文章](https://github.com/wangge-dev/wangge-articles) · [开源 Skills](https://github.com/wangge-ai/wangge-skills) · [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/) · [wangge-ai](https://github.com/wangge-ai)
 
 </div>
 
@@ -25,11 +25,10 @@
 
 ## 开源项目
 
+- **[wangge-articles](https://github.com/wangge-dev/wangge-articles)**：公众号「AI应用实战派PRO」文章归档，包含 59 篇 AI、电商与工作流实战文章。
 - **[wangge-skills](https://github.com/wangge-ai/wangge-skills)**：旺哥开源 Skill 总索引。
-- **[ai-plus-plus-data-analysis](https://github.com/wangge-dev/ai-plus-plus-data-analysis)**：AI 与数据分析实践。
-- **[wworkbuddy-open-cases](https://github.com/wangge-dev/wworkbuddy-open-cases)**：WorkBuddy 公开案例。
 
-更多成熟 Skill 会从总索引中逐步拆成独立仓库。未完成许可证与隐私审查的素材不会直接公开。
+更多成熟 Skill 和案例会在完成开发、许可证与隐私审查后逐步公开。
 
 ## 找到我
 
