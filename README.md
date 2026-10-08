@@ -31,6 +31,8 @@
 | 可以安装和复用的 Agent Skills | [wangge-ai/wangge-skills](https://github.com/wangge-ai/wangge-skills) |
 | 全部正式开源项目与后续协作 | [wangge-ai 开源组织](https://github.com/wangge-ai) |
 | 文章配套教程、课件与资料包 | [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH) |
+| 直接进入 AI 生图网站 | [旺哥 AI 生图网站](https://inkroom.ai/000a) |
+| 仓库简介、作图攻略与交流入口 | [旺哥资源导航](https://my.feishu.cn/docx/YmlJd9bWRocS8VxEE8JcSjLvnnf) |
 
 个人文章和个人实践归在 `wangge-dev`；成熟、可复用、适合协作维护的 Skill 和工具归在 `wangge-ai`。开发中或含业务隐私的项目保持私有，完成许可证、隐私和运行检查后再公开。
 
