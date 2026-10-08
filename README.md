@@ -27,7 +27,7 @@
 
 | 想看什么 | 从这里进入 |
 |---|---|
-| 我的公众号文章与实战记录 | [wangge-articles](https://github.com/wangge-dev/wangge-articles)，已归档 61 篇文章 |
+| 我的公众号文章与实战记录 | [wangge-articles](https://github.com/wangge-dev/wangge-articles)，已归档 82 篇文章 |
 | 可以安装和复用的 Agent Skills | [wangge-ai/wangge-skills](https://github.com/wangge-ai/wangge-skills) |
 | 全部正式开源项目与后续协作 | [wangge-ai 开源组织](https://github.com/wangge-ai) |
 | 文章配套教程、课件与资料包 | [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH) |
@@ -36,12 +36,12 @@
 
 ## 交流与资料
 
-进入 [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/)，交流 AI、电商、数据分析和自动化实践。
+进入 [旺哥 AI 电商实战群](https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/)，交流 AI、电商、数据分析和自动化实践。
 
 文章配套 Skill、工作流、教程和课件统一放在 [飞书 Skill 资料库](https://my.feishu.cn/wiki/DJMRwTyK2ifkkmk5FHPcZeP3nwc?table=tbl1SvuqTb3Vmeq4&view=vew95iuRuH)。
 
 <p align="center">
-  <a href="https://t2vq6a99kv.feishuapp.com/app/app_17a7exe7wzv/">
+  <a href="https://t2vq6a99kv.feishuapp.com/app/app_17fgnu76fy9/">
     <img src="assets/feishu-community-qr.png" width="220" alt="扫码进入旺哥 AI 电商实战群">
   </a>
 </p>
